@@ -28,7 +28,7 @@
 
 <img align="left" alt="PHP" width="30px" src="https://e7.pngegg.com/pngimages/78/907/png-clipart-logo-php-mysql-computer-icons-workforce-development-logos-blue-web-design.png" />
 
-<img align="left" alt="LARAVEL" width="26px" src="" />
+<img align="left" alt="LARAVEL" width="26px" src="https://laravel.com/img/logomark.min.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
